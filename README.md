@@ -1,8 +1,8 @@
 <p align="left">
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in NIGERIA" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/zphisher.png"></a>
+<a href="#"><img title="Beshy of London" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/zphisher.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
@@ -22,8 +22,8 @@
 * `apt update`
 * `apt install git curl php openssh -y`
 * `git clone git://github.com/htr-tech/zphisher.git`
-* `cd zphisher`
-#### > Run : `bash zphisher.sh`
+* `cd beshy`
+#### > Run : `bash beshy of London.sh`
 
 ## Single Command :
 ```
